@@ -3,6 +3,7 @@ title: "Lotka-Volterra Example"
 subtitle: "Numerical approximations"
 output: html_document
 ---
+Now making a change in R. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
