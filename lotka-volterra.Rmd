@@ -5,6 +5,7 @@ output: html_document
 ---
 Now making a change in R. 
 
+# Lokta-Volterra Example 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
